@@ -1,5 +1,6 @@
+gorpelinur/gorpelinur
 
-**gorpelinur/gorpelinur** 
+
 Hi guys! 👋
 
 I am currently working on HTML, CSS, JAVASCRIPT.
