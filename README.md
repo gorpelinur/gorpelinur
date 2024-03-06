@@ -1,9 +1,7 @@
-### Hi there 👋
 
+**gorpelinur/gorpelinur** 
+Hi guys! 👋
 
-**gorpelinur/gorpelinur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on HTML, CSS, JAVASCRIPT
-- 🌱 I will learn React
+I am currently working on HTML, CSS, JAVASCRIPT
+My training will continue with React
+My projects are available in my profile 👩🏻‍💻
